@@ -1,0 +1,24 @@
+Step 1:
+>conda update conda
+>anaconda update anaconda
+>pip install cmake
+>pip install opencv-python
+>pip install "http://files......"
+(copy the link from website "pypi.org/simple/dlib" and paste here)
+link : dlib-19.8.1-cp36.......
+
+
+Step 2:
+Install Visual Studio from "visualstudio.microsoft.com/download/"
+After installation of VS install cmake within VS
+
+Step 3:
+finally install "face_recognition" by "pip install face_recognition" command
+
+-----------------------------------------------------------------------------------------
+Vido to take referece: (steps are explained in a very crude way but it has worked for me)
+https://www.youtube.com/watch?v=oSQAXMgwLFo
+
+-----------------------------------------------------------------------------------------
+Other link for face_recognition installation:
+https://github.com/ageitgey/face_recognition/issues/339
